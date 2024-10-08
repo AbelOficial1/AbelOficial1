@@ -1,6 +1,6 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" style="display:inline;">
 
-<h1 align="center">Hola , Soy Jesus Mendoza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola , Soy Abel Torres <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -13,24 +13,24 @@ Estudiante del Tecnológico Superior de México, campus El Mante. Me distingo po
 <br>
 
 ```python
-class Jesus():
+class Abel():
     
   def __init__(self):
-    self.name = "Jesus Mendoza";
+    self.name = "Abel Torres";
     self.username = "AbelOficial1";
     self.location = "Tamaulipas, Mexico";
-    self.linkedin = "https://www.linkedin.com/in/jesus-daniel-mendoza-medina-545727254/";
+    self.linkedin = "https://mx.linkedin.com/in/abel-torres-cruz-5599892b1/";
   
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
-    me = Jesus()
+    me = Abel()
 ```
 
  ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- :credit_card: Mi nombre completo es Jesús Daniel Mendoza Medina <img src="https://media.tenor.com/UrDRnKDD9F0AAAAM/gjirlfriend.gif" width="300" height="200" align="right"/>
+- :credit_card: Mi nombre completo es Abel Roberto Torres Cruz <img src="https://media.tenor.com/UrDRnKDD9F0AAAAM/gjirlfriend.gif" width="300" height="200" align="right"/>
 - :school: Actualmente curso el 7.º semestre en el Tecnológico Superior de México, campus El Mante.
 - :earth_americas: Actualmente vivo en Ciudad Mante, Tamaulipas.
 - :books: Me gusta encontrar soluciones a problemas desafiantes.
