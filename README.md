@@ -37,6 +37,7 @@ if __name__ == '__main__':
 - :sunglasses: Mi frase favorita es "He llegado tan lejos para darme por vencido."
 - :sleeping: Por alguna extraña razón, resuelvo problemas mientras duermo
 
+<!--
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Lenguajes de programación
 
 <div align="center">
@@ -65,6 +66,8 @@ if __name__ == '__main__':
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=git,postman,linux,vscode" />	
 </div>
+
+-->
 	
 🐍 Fiel creyente de que toda la información se debe de compartir 🐍
 	
