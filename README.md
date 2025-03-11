@@ -31,7 +31,7 @@ if __name__ == '__main__':
  ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 - :credit_card: Mi nombre completo es Abel Roberto Torres Cruz <img src="https://media.tenor.com/UrDRnKDD9F0AAAAM/gjirlfriend.gif" width="300" height="200" align="right"/>
-- :school: Actualmente curso el 7.º semestre en el Tecnológico Superior de México, campus El Mante.
+- :school: Actualmente curso el 8.º semestre en el Tecnológico Superior de México, campus El Mante.
 - :earth_americas: Actualmente vivo en Ciudad Mante, Tamaulipas.
 - :books: Me gusta encontrar soluciones a problemas desafiantes.
 - :sunglasses: Mi frase favorita es "He llegado tan lejos para darme por vencido."
